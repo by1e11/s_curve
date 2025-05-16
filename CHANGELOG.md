@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.2.8] - 2025-05-16
+
+### Added
+- C++ and python implementation
+- Python wrapper for the C++ implementation
+
+# Original changelog
+---
+
 ## [0.1.7] - 2023-05-02
 
 ### Added

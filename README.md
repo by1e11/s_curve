@@ -1,3 +1,15 @@
+# S-Curve C++/Python
+
+This is a port of the [S-Curve library for Rust](https://github.com/marcbone/s_curve) to C++ and Python. 
+
+What makes this porting interesting is the codes are automatically translated completely by AI coding assistant (in Trae and Deepseek v3 underlying) in less than 20 mins, leaving me just rearranged the directory structure, pointed some small errors for "him/her" to fix and some gitting.
+
+The credit should be given to the original author.
+
+
+---
+# Original Readme
+
 [![crates.io](https://img.shields.io/crates/v/s_curve.svg)](https://crates.io/crates/s_curve)
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/marcbone/s_curve/rust.yml)](https://github.com/marcbone/s_curve/actions)
 [![crates.io](https://img.shields.io/crates/l/s_curve.svg)](https://crates.io/crates/s_curve)
